@@ -1,5 +1,4 @@
 [
-  #profile-title: MySub
   {
       "dns": {
           "queryStrategy": "UseIP",
