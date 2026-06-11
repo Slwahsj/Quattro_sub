@@ -1,4 +1,3 @@
 #profile-title: MySub
-{
-  https://raw.githubusercontent.com/Slwahsj/Quattro_sub/refs/heads/main/main.txt
-}
+
+https://raw.githubusercontent.com/Slwahsj/Quattro_sub/refs/heads/main/main.txt
